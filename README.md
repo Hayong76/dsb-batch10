@@ -7,4 +7,10 @@ My data science and analytics projects
 2. SQL churn analysis
 3. R programming 
 4. Looker Dashboard
-5. Linear Regression Model using caret
+5. Linear Regression Model using Caret
+
+## Contact Me
+Reach out to me at nattawat_yen@hotmail.com
+
+## Image
+![Craftive 3D print](https://www.pinterest.com/pin/download-free-android-wallpaper-deadpool--337770040806950315/)
